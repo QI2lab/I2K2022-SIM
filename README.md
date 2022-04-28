@@ -9,7 +9,7 @@ conda create -n mcsimi2k python=3.9
 conda activate mcsimi2k
 ```
 
-Install mcSIM package via pip.
+Install mcSIM package and Napari via pip.
 ```
 pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]"
 ````
