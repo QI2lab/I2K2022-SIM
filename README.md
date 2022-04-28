@@ -3,18 +3,17 @@ I2K 2022 mcSIM tutorial
 
 
 ## Install mcSIM package
-First, create a new conda environment.
+Create and activate a new conda environment.
 ```
 conda create -n mcsimi2k python=3.9
 conda activate mcsimi2k
 ```
 
-Second, install mcSIM package via pip.
+Install mcSIM package via pip.
 ```
 pip install git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM
 ````
-
-Third, download example datasets from Zenodo.
+## Download example 2D-SIM data
 Resolution target 2D-SIM:
 
 *Argolight SIM slide v1*
@@ -33,4 +32,5 @@ Nikon N-SIM three color immunofluorescence 2D-SIM image:
 
 *Instrument: Nikon N-SIM*
 
-Fourth, explore example notebooks for dataset along with tutorial video.
+## Explore examples
+Example notebooks that explore reconstruction for each dataset are provided in `/examples`
