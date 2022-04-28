@@ -11,7 +11,7 @@ conda activate mcsimi2k
 
 Install mcSIM package via pip.
 ```
-pip install git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM
+pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]"
 ````
 ## Download example 2D-SIM data
 Resolution target 2D-SIM:
