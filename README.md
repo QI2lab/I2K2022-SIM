@@ -21,9 +21,11 @@ pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[a
 git clone https://github.com/QI2lab/I2K2022-SIM.git
 ```
 
+If you don't have git installed, you can download this repository using the green code button above and unzip on your computer.
+
 ## Download example 2D-SIM data
 
-[Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing). Unzip into directory with examples.
+[Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing). Unzip into directory where you cloned this repository.
 
 ### Example 1: Mapping light modulator to image space
 *Uniform dye slide*
