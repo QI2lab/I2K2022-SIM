@@ -11,7 +11,7 @@ conda activate mcsimi2k
 
 Install mcSIM package and Napari via pip.
 ```
-pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipympl"
+pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipykernel" "ipympl"
 ````
 
 ## Download the reconstruction examples in this repository
