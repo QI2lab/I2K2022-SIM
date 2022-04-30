@@ -6,6 +6,8 @@ I2K 2022 multicolor 2D-SIM tutorial.
 Create and activate a new conda environment.
 ```
 conda create -n mcsimi2k python=3.9
+```
+```
 conda activate mcsimi2k
 ```
 
