@@ -15,9 +15,9 @@ pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[a
 ````
 
 ## Download the reconstruction examples in this repository
-'''
+```
 git clone https://github.com/QI2lab/I2K2022-SIM.git
-'''
+```
 
 ## Download example 2D-SIM data
 
