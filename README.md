@@ -3,15 +3,18 @@ I2K 2022 multicolor 2D-SIM tutorial.
 
 
 ## Install mcSIM package
-Create and activate a new conda environment.
+Create a new conda environment.
 ```
 conda create -n mcsimi2k python=3.9
+```
+Activate the new conda environment.
+```
 conda activate mcsimi2k
 ```
 
-Install mcSIM package and Napari via pip.
+Install mcSIM package, Napari, and other required tutorial packages via pip (roughly 5-10 minutes install).
 ```
-pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipympl"
+pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipykernel" "ipympl"
 ````
 
 ## Download the reconstruction examples in this repository
@@ -19,9 +22,11 @@ pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[a
 git clone https://github.com/QI2lab/I2K2022-SIM.git
 ```
 
+If you don't have git installed, you can download this repository using the green code button above and unzip on your computer.
+
 ## Download example 2D-SIM data
 
-[Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing). Unzip into directory with examples.
+[Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing) (~1.6 gigabytes). Unzip into directory where you cloned this repository.
 
 ### Example 1: Mapping light modulator to image space
 *Uniform dye slide*
