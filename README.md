@@ -21,7 +21,7 @@ git clone https://github.com/QI2lab/I2K2022-SIM.git
 
 ## Download example 2D-SIM data
 
-Download archive. Unzip into directory with examples.
+[Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing). Unzip into directory with examples.
 
 ### Example 1: Mapping light modulator to image space
 *Uniform dye slide*
