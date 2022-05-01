@@ -19,9 +19,9 @@ Install mcSIM package, Napari, and other required tutorial packages via pip (rou
 pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipykernel" "ipympl" "napari-plot-profile"
 ````
 
-Depending on how you plan to interact with the Jupyter Notebooks (VS Code, PyCharm, JupyterLab, etc..) you may need to perform additionall installs.
+Depending on how you plan to interact with the Jupyter Notebooks (VS Code, PyCharm, JupyterLab, etc..) you may need to perform additional installs.
 
-If you want to use [JuypterLab](https://jupyterlab.readthedocs.io/en/stable/), you will also need to install it.
+For example, if you want to use [JuypterLab](https://jupyterlab.readthedocs.io/en/stable/) to run the notebooks, you need to install it using,
 
 ```
 pip install jupyterlab
