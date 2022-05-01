@@ -37,6 +37,7 @@ If you don't have git installed, you can download this repository using the gree
 ## Download example 2D-SIM data
 
 [Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing) (~1.6 gigabytes). Unzip into directory where you cloned this repository.
+**IMPORTANT**: During the video, we reference that some files are stored as pickle files by mcSIM. To ensure that there are no security issues, we replaced all pickle code and files with json code and files. Please ignore this discussion in the videos. Thank you!
 
 ### Example 1: Mapping light modulator to image space
 *Uniform dye slide*
