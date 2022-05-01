@@ -19,6 +19,14 @@ Install mcSIM package, Napari, and other required tutorial packages via pip (rou
 pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipykernel" "ipympl" "napari-plot-profile"
 ````
 
+Depending on how you plan to interact with the Jupyter Notebooks (VS Code, PyCharm, JupyterLab, etc..) you may need to perform additionall installs.
+
+If you want to use [JuypterLab](https://jupyterlab.readthedocs.io/en/stable/), you will also need to install it.
+
+```
+pip install jupyterlab
+```
+
 ## Download the reconstruction examples in this repository
 ```
 git clone https://github.com/QI2lab/I2K2022-SIM.git
