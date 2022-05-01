@@ -1,6 +1,8 @@
 # I2K2022-SIM
 I2K 2022 multicolor 2D-SIM tutorial.
 
+## Conda environments
+We would like to ask attendees of the workshop to setup conda on their computers before the session. If you have never used conda before, please [read this guide first](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/).
 
 ## Install mcSIM package
 Create a new conda environment.
