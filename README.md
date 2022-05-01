@@ -39,12 +39,12 @@ If you don't have git installed, you can download this repository using the gree
 [Download example data archive](https://drive.google.com/file/d/15ivWaddVJX59jluN97Ac7t-wgSZhDUxB/view?usp=sharing) (~1.6 gigabytes). Unzip into directory where you cloned this repository.
 **IMPORTANT**: During the video, we reference that some files are stored as pickle files by mcSIM. To ensure that there are no security issues, we replaced all pickle code and files with json code and files. Please ignore this discussion in the videos. Thank you!
 
-### Example 1: Mapping light modulator to image space
+### Example 1: Calibrating spatial light modulator
 *Uniform dye slide*
 
 *Instrument: qi2lab DMD-SIM*
 
-### Example 2: Resolution target 2D-SIM
+### Example 2: Reconstruction parameters: Resolution target 2D-SIM
 
 
 
@@ -52,15 +52,15 @@ If you don't have git installed, you can download this repository using the gree
 
 *Instrument: qi2lab DMD-SIM*
 
-### Example 3: Tetrahymena immunofluorescence 2D-SIM z stack
+### Example 3: Optical sectioning: Tetrahymena immunofluorescence 2D-SIM z stack
 
-https://user-images.githubusercontent.com/26783318/166160872-a31903b1-4997-432d-aac6-fc67aefe915f.mp4
+![tet-sim](https://user-images.githubusercontent.com/26783318/166161389-6a4bd0ec-57c9-4717-b451-e60293319119.gif)
 
 *Sample prepared by Dr. Nick Galati at [Western Washington University](https://wp.wwu.edu/galatilab/)*
 
 *Instrument: qi2lab DMD-SIM*
 
-### Example 4: Nikon N-SIM three color immunofluorescence 2D-SIM image
+### Example 4: Uncalibrated modulators: Nikon N-SIM three color immunofluorescence 2D-SIM image
 
 ![Comparison_downscale](https://user-images.githubusercontent.com/26783318/166161222-039b1a9c-7b9b-4b3c-8e19-cd429f7db6ca.png)
 
