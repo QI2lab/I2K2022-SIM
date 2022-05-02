@@ -14,7 +14,7 @@ Activate the new conda environment.
 conda activate mcsimi2k
 ```
 
-Install mcSIM package, Napari, and other required tutorial packages via pip (roughly 5-10 minutes install).
+Install [mcSIM](https://github.com/QI2lab/mcSIM) package, [Napari](https://napari.org/), and other required tutorial packages via pip (roughly 5-10 minutes install).
 ```
 pip install "git+https://git@github.com/qi2lab/mcSIM@master#egg=mcSIM" "napari[all]" "nd2" "ipykernel" "ipympl" "napari-plot-profile"
 ````
