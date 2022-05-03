@@ -1,7 +1,5 @@
 # I2K2022-SIM
-I2K 2022 multicolor 2D-SIM tutorial.
-
-![Screenshot 2022-05-03 134115-1](https://user-images.githubusercontent.com/26783318/166562812-b3db5b42-9d02-4cac-9305-062cb1b33457.png)
+**I2K 2022 tutorial on High quality 2D SIM reconstruction in python with mcSIM**
 
 ## Conda environments
 The installation instructions assume you have a conda environment. If you have never used conda before, please [read this guide first](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/).
