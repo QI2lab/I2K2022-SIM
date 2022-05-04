@@ -56,7 +56,7 @@ If you don't have git installed, you can download this repository using the gree
 
 ### Example 3: Optical sectioning: Tetrahymena immunofluorescence 2D-SIM z stack
 
-![tet-sim](https://user-images.githubusercontent.com/26783318/166161389-6a4bd0ec-57c9-4717-b451-e60293319119.gif)
+![tet_sim_v2](https://user-images.githubusercontent.com/26783318/166837008-e2c718b8-36e4-4efa-b9ee-59593ebdd835.gif)
 
 *Sample prepared by Dr. Nick Galati at [Western Washington University](https://wp.wwu.edu/galatilab/)*
 
