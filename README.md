@@ -29,6 +29,8 @@ For example, if you want to use [JuypterLab](https://jupyterlab.readthedocs.io/e
 pip install jupyterlab
 ```
 
+Some mcSIM functions can be optionally run on a GPU. If this is desired, ensure your python environment has the [appropriate version of CuPy](https://cupy.dev/) installed. mcSIM will automatically utilize the GPU if CuPy is installed and working.
+
 ## Download the reconstruction examples in this repository
 ```
 git clone https://github.com/QI2lab/I2K2022-SIM.git
