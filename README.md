@@ -82,6 +82,8 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 
 ### Example 5: Uncalibrated modulators: Oblique plane structured illumination microscopy
 
+![opsim-1](https://user-images.githubusercontent.com/26783318/170584109-9b59543d-57c8-456e-b5b8-0d8852184000.png)
+
 *Sample: Cardiomyocyte cells, 1-color immunofluorescence for alpha-actinin-2.*  
 *Prepared by: James Hayes and Dr. Dylan Burnette at [Vanderbilt University](https://lab.vanderbilt.edu/dylan-burnette-lab/).*  
 *Imaged by: Dr. Reto Fiolka at [UTSW](https://www.utsouthwestern.edu/labs/fiolka/).*  
