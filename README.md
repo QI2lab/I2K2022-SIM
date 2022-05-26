@@ -3,6 +3,8 @@
 ## I2K 2022 video tutorial
 [![I2K 2022 video tutorial](https://user-images.githubusercontent.com/26783318/166836402-b81c7d1e-b7c5-4586-9e4d-e61b2e68c728.png)](http://www.youtube.com/watch?v=mDar-MjMtW0 "I2K 2022 video tutorial")
 
+Since the I2k tutorial ran, we have added "Example 5 - oblique plane structured illumination microscopy". There is not currently a video walkthrough available for this example.
+
 ## Conda environments
 The installation instructions assume you have a conda environment. If you have never used conda before, please [read this guide first](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/).
 
@@ -80,7 +82,7 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 *Imaged by: Dr. Christophe Leterrier at [NeuroCyto Lab](https://www.neurocytolab.org/).*  
 *Instrument: Nikon N-SIM.*
 
-### Example 5: Uncalibrated modulators: Oblique plane structured illumination microscopy
+### Example 5: Uncalibrated modulators: Oblique plane structured illumination microscopy (no video walkthrough)
 
 ![opsim-1](https://user-images.githubusercontent.com/26783318/170584109-9b59543d-57c8-456e-b5b8-0d8852184000.png)
 
