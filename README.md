@@ -3,6 +3,8 @@
 ## I2K 2022 video tutorial
 [![I2K 2022 video tutorial](https://user-images.githubusercontent.com/26783318/166836402-b81c7d1e-b7c5-4586-9e4d-e61b2e68c728.png)](http://www.youtube.com/watch?v=mDar-MjMtW0 "I2K 2022 video tutorial")
 
+Since the I2k tutorial ran, we have added "Example 5 - oblique plane structured illumination microscopy". There is not currently a video walkthrough available for this example.
+
 ## Conda environments
 The installation instructions assume you have a conda environment. If you have never used conda before, please [read this guide first](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/).
 
@@ -59,7 +61,7 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 ![Clipboard-1](https://user-images.githubusercontent.com/26783318/166563449-ee752ecd-fd03-47a3-be4c-ea37910aef68.png)
 
 *Sample: Argolight SIM slide v1*  
-*Imaged by: Dr. Peter Brown at qi2lab*
+*Imaged by: Dr. Peter Brown at qi2lab*  
 *Instrument: [qi2lab DMD-SIM](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-6-3700&id=451508).*
 
 ### Example 3: Optical sectioning: Tetrahymena immunofluorescence 2D-SIM z stack
@@ -69,7 +71,7 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 *Sample: Fixed Tetrahymena, 1-color immunofluorescence for basal bodies.*  
 *Prepared by Dr. Nick Galati at [Western Washington University](https://wp.wwu.edu/galatilab/).*  
 *Imaged by: Dr. Peter Brown at qi2lab.*  
-*Instrument: qi2lab DMD-SIM.*
+*Instrument: [qi2lab DMD-SIM](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-6-3700&id=451508).*
 
 ### Example 4: Uncalibrated modulators: Nikon N-SIM three color immunofluorescence 2D-SIM image
 
@@ -80,11 +82,11 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 *Imaged by: Dr. Christophe Leterrier at [NeuroCyto Lab](https://www.neurocytolab.org/).*  
 *Instrument: Nikon N-SIM.*
 
-### Example 5: Uncalibrated modulators: Oblique plane structured illumination microscopy
+### Example 5: Uncalibrated modulators: Oblique plane structured illumination microscopy (no video walkthrough)
 
 ![opsim-1](https://user-images.githubusercontent.com/26783318/170584109-9b59543d-57c8-456e-b5b8-0d8852184000.png)
 
 *Sample: Cardiomyocyte cells, 1-color immunofluorescence for alpha-actinin-2.*  
 *Prepared by: James Hayes and Dr. Dylan Burnette at [Vanderbilt University](https://lab.vanderbilt.edu/dylan-burnette-lab/).*  
-*Imaged by: Dr. Reto Fiolka at [UTSW](https://www.utsouthwestern.edu/labs/fiolka/).*  
+*Imaged by: Dr. Reto Fiolka at [University of Texas Southwestern Medical Center](https://www.utsouthwestern.edu/labs/fiolka/).*  
 *Instrument: [Fiolka lab oblique plane structured illumination microscope](https://www.biorxiv.org/content/10.1101/2022.05.19.492671v1.full).*
