@@ -61,7 +61,7 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 ![Clipboard-1](https://user-images.githubusercontent.com/26783318/166563449-ee752ecd-fd03-47a3-be4c-ea37910aef68.png)
 
 *Sample: Argolight SIM slide v1*  
-*Imaged by: Dr. Peter Brown at qi2lab*
+*Imaged by: Dr. Peter Brown at qi2lab*  
 *Instrument: [qi2lab DMD-SIM](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-6-3700&id=451508).*
 
 ### Example 3: Optical sectioning: Tetrahymena immunofluorescence 2D-SIM z stack
@@ -71,7 +71,7 @@ For Example 5: Oblique plane structured illumination microscopy, the raw data ne
 *Sample: Fixed Tetrahymena, 1-color immunofluorescence for basal bodies.*  
 *Prepared by Dr. Nick Galati at [Western Washington University](https://wp.wwu.edu/galatilab/).*  
 *Imaged by: Dr. Peter Brown at qi2lab.*  
-*Instrument: qi2lab DMD-SIM.*
+*Instrument: [qi2lab DMD-SIM](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-6-3700&id=451508).*
 
 ### Example 4: Uncalibrated modulators: Nikon N-SIM three color immunofluorescence 2D-SIM image
 
