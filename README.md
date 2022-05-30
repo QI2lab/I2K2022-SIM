@@ -1,4 +1,4 @@
-# I2K 2022 tutorial on High quality 2D SIM reconstruction in python with mcSIM
+# I2K 2022 tutorial on high quality 2D SIM reconstruction in python with mcSIM
 
 ## I2K 2022 video tutorial  
 [![I2K 2022 video tutorial](https://user-images.githubusercontent.com/26783318/166836402-b81c7d1e-b7c5-4586-9e4d-e61b2e68c728.png)](http://www.youtube.com/watch?v=mDar-MjMtW0 "I2K 2022 video tutorial")
